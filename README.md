@@ -22,3 +22,7 @@ It includes the database schema and sample data.
 ## Tools Used
 - MySQL
 - MySQL Workbench
+  
+## ER Diagram
+![ER Diagram](er-diagram.png)
+
