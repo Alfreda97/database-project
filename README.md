@@ -4,6 +4,11 @@
 This project contains a MySQL database created using MySQL Workbench.
 It includes the database schema and sample data.
 
+## Database Features
+- Relational schema with multiple tables
+- Primary and foreign key relationships
+- Example queries using joins and aggregation
+
 ## Files
 - `database.sql` – Full database export (schema + data)
 
